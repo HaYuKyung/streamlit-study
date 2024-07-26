@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 time
-plotly.express as px
+plotly.express
